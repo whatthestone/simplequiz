@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica;
+}
+
+form {
+    display: block;
+}
+
+input {
+    margin: 1rem;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
